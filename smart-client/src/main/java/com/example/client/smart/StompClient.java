@@ -15,7 +15,7 @@ import org.springframework.web.socket.messaging.WebSocketStompClient;
  */
 public class StompClient {
 
-    private static String URL = "ws://localhost:8080/spring-mvc-java/chat";
+    private static String URL = "ws://localhost:8080/gs-guide-websocket";
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
         WebSocketClient client = new StandardWebSocketClient();
