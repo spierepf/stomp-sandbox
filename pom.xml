@@ -12,6 +12,7 @@
   <modules>
   	<module>server</module>
   	<module>common</module>
+  	<module>smart-client</module>
   </modules>
 
   <properties>
